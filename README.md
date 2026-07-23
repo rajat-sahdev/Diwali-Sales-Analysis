@@ -33,16 +33,7 @@ The dataset contains customer details such as:
 - Uttar Pradesh, Maharashtra, and Karnataka generated the highest sales.
 - Married women were among the major buyers.
 - IT, Healthcare, and Aviation professionals had higher purchasing power.
-
-## 📁 Project Structure
-```
-Diwali-Sales-Analysis/
-│── Diwali-Sales-Analysis.ipynb
-│── Diwali Sales Data.csv
-│── README.md
-│── requirements.txt
-│── images/
-```
+  
 
 ## 🚀 How to Run
 ```bash
